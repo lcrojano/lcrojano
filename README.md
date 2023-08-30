@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me lcrojano@gmail.com
 
-<!---
-lcrojano/lcrojano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/lcrojano"><img src="https://api.daily.dev/devcards/ef43738af0ba445dab63b60726286985.png?r=t5e" width="400" alt="luis carlos rojano's Dev Card"/></a>
