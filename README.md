@@ -1,4 +1,3 @@
- 
 👋 Hi, I'm @lcrojano, Fullstack | Software engineer | Web Development.
 
 🅰️ Full-stack Angular developer.
