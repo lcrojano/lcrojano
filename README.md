@@ -1,3 +1,7 @@
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">   
+
+ 
 👋 Hi, I'm @lcrojano, Fullstack | Software engineer | Web Development.
 
 🚀 Crafting custom software solutions
@@ -15,8 +19,9 @@
 - Grokking Algorithms
 - Software Engineering at Google: Lessons Learned from Programming Over Time
  
-
-
-
-<a href="https://app.daily.dev/lcrojano"><img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg" width="400" alt="luis carlos rojano's Dev Card"/></a>
-
+ <br>
+ 
+  <a href="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg">
+      <img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg" width="400" alt="luis carlos rojano's Dev Card"/>
+    </a>
+ 
