@@ -1,4 +1,4 @@
- <img src="https://drive.google.com/u/2/uc?id=1UwMgwBaJWw8A256zOuIoUTGiNfuYhcki&export=download" alt="Top Languages">   
+ <img width=500 src="https://drive.google.com/u/2/uc?id=1skGrOcBDINY6t0k4i3-olbsh6Tsu9uHx&export=download" alt="Top Languages">   
 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">   
