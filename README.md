@@ -1,9 +1,10 @@
-<div align="center">
+<div >
   <img width="500" src="https://drive.google.com/u/2/uc?id=1UwMgwBaJWw8A256zOuIoUTGiNfuYhcki&export=download" alt="Top Languages">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
+ 
 </div>
 
 👋 Hi, I'm @lcrojano, Fullstack | Software engineer | Web Development.
@@ -24,8 +25,9 @@
 - Software Engineering at Google: Lessons Learned from Programming Over Time
  
  <br>
- 
+ <div align="center">
+
   <a href="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg">
       <img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg" width="400" alt="luis carlos rojano's Dev Card"/>
     </a>
- 
+ </div>
