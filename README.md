@@ -7,7 +7,7 @@
  
 </div>
 
-👋 Hi, I'm @lcrojano, Fullstack | Software engineer | Web Development.
+👋 Hi, I'm @lcrojano, Software engineer |  Web Development | Fullstack 
 
 🚀 Crafting custom software solutions
 
@@ -19,9 +19,10 @@
 
 🔝 Top Front-End Development Voice at LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/lcrojano/overlay/top-voice-detail/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAASrm50B-0kLP9bKPWfIhRgYM7z6Rsl5X-w).
 
+💬 "Commitment fuels accountability, resulting in unwavering reliability."
 📖 Currently reading:
-- Clean Code
 - Grokking Algorithms
+- Clean Code
 - Software Engineering at Google: Lessons Learned from Programming Over Time
  
  <br>
