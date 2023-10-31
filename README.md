@@ -1,10 +1,14 @@
-<div >
+
+[![An image of @lcrojano's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lcrojano)](https://holopin.io/@lcrojano)
+<div  align="center">
   <img width="500" src="https://drive.google.com/u/2/uc?id=1UwMgwBaJWw8A256zOuIoUTGiNfuYhcki&export=download" alt="Top Languages">
-  
+
 </div>
 <br>
+  
+
 <div align="center">
- 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
 </div>
 
 👋 Hi, I'm @lcrojano, Software engineer |  Web Development | Fullstack 
@@ -25,11 +29,14 @@
 - Clean Code
 - Software Engineering at Google: Lessons Learned from Programming Over Time
  
- <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages">
+ <br>    
+
+ <div align="center"> 
 
  
   <a href="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg">
       <img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg" width="400" alt="luis carlos rojano's Dev Card"/>
     </a>
  
+
+ </div>
