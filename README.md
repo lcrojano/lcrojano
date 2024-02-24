@@ -34,11 +34,10 @@
  <div align="center"> 
 
  
-  <a href="[https://github.com/lcrojano/lcrojano/blob/main/devcard.svg](https://app.daily.dev/lcrojano)">
-      <img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg" width="400" alt="luis carlos rojano's Dev Card"/>
+  <a href="https://app.daily.dev/lcrojano" target="_blanck">
+      <img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg?type=wide&r=5ar" width="652" alt="luis carlos rojano's Dev Card" />
     </a>
    
-
  
 
  </div>
