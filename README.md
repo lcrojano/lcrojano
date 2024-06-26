@@ -33,11 +33,8 @@
 
  <div align="center"> 
 
- 
-  <a href="https://app.daily.dev/lcrojano" target="_blanck">
-      <img src="https://github.com/lcrojano/lcrojano/blob/main/devcard.svg?type=wide&r=5ar" width="652" alt="luis carlos rojano's Dev Card" />
-    </a>
-   
+
+   <a href="https://app.daily.dev/lcrojano"><img src="https://api.daily.dev/devcards/v2/M6CnhzFVJiNHFeaQjV882.png?type=default&r=7z0" width="356" alt="luis carlos rojano's Dev Card"/></a>
  
 
  </div>
